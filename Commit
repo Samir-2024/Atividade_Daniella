@@ -2,6 +2,6 @@ nome = input():
 
 
 if nome == "Eu":
-  print("Eu")
+  print("Bem vindo , Eu")
 else:
-  print("Errrou!!!")
+  print("Errou!!!")
