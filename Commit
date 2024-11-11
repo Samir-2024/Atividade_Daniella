@@ -1,7 +1,0 @@
-nome = input():
-
-
-if nome == "Eu":
-  print("Eu")
-else:
-  print("Errrou!!!")
